@@ -74,10 +74,6 @@ Key milestones tracked with baseline finish dates:
 - **Power BI** – Dashboard development, data modeling, and visualization  
 - **DAX** – KPI calculations, progress metrics, and cumulative values  
 - **Microsoft Excel / Project Data** – Source data for schedule, cost, manpower, and activities  
-- **Project Controls Principles**  
-  - Critical Path Method (CPM)  
-  - Schedule performance analysis  
-  - Resource and cost tracking  
 
 ---
 
