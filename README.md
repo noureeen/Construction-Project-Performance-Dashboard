@@ -109,6 +109,6 @@ This dashboard was created as a **learning and portfolio project** to showcase h
 ---
 
 ## Dashboard Preview
-*(Add screenshots here)*
+*(https://github.com/noureeen/Construction-Project-Performance-Dashboard/blob/main/Construction.png)*
 
 
