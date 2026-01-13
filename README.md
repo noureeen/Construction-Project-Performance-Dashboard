@@ -3,13 +3,11 @@ It provides real-time visibility into schedule, cost, progress, manpower, and cr
 
 ---
 
-# 🏥 WIMS Hospital – Project Performance Dashboard
+# WIMS Hospital – Project Performance Dashboard
 
 ## Overview
 This project is a **Project Performance Dashboard for the WIMS Hospital construction project**, built using **Power BI**.  
 The dashboard brings together **schedule, cost, manpower, and critical path data** into one interactive view, helping project teams clearly understand performance and make informed decisions.
-
-The focus of this project is not just reporting numbers, but **turning project data into meaningful insights**.
 
 ---
 
